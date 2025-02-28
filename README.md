@@ -38,33 +38,33 @@ May the force be with you!
 |<br>
 |-->documentos<br>
   &emsp;|-->Entrega 1<br>
-    &emsp;|-->Analise Inferencial de Dados<br>
-    &emsp;|-->Contabilidade & Financas<br>
-    &emsp;|-->ES & AS<br>
-    &emsp;|-->Projeto Interdisciplinar - Ciencia de Dados<br>
+    &emsp;&emsp;|-->Analise Inferencial de Dados<br>
+    &emsp;&emsp;|-->Contabilidade & Financas<br>
+    &emsp;&emsp;|-->ES & AS<br>
+    &emsp;&emsp;|-->Projeto Interdisciplinar - Ciencia de Dados<br>
   &emsp;|-->Entrega 2<br>
-    &emsp;|-->Analise Inferencial de Dados<br>
-    &emsp;|-->Contabilidade & Financas<br>
-    &emsp;|-->ES & AS<br>
-    &emsp;|-->Projeto Interdisciplinar - Ciencia de Dados<br>
+    &emsp;&emsp;|-->Analise Inferencial de Dados<br>
+    &emsp;&emsp;|-->Contabilidade & Financas<br>
+    &emsp;&emsp;|-->ES & AS<br>
+    &emsp;&emsp;|-->Projeto Interdisciplinar - Ciencia de Dados<br>
   &emsp;|-->Entrega 3<br>
-    &emsp;|-->Analise Inferencial de Dados<br>
-    &emsp;|-->Contabilidade & Financas<br>
-    &emsp;|-->ES & AS<br>
-    &emsp;|-->Projeto Interdisciplinar - Ciencia de Dados<br>
+    &emsp;&emsp;|-->Analise Inferencial de Dados<br>
+    &emsp;&emsp;|-->Contabilidade & Financas<br>
+    &emsp;&emsp;|-->ES & AS<br>
+    &emsp;&emsp;|-->Projeto Interdisciplinar - Ciencia de Dados<br>
   &emsp;|Documentação.docx<br>
   readme.md<br>
 |-->imagens<br>
 |-->src<br>
   &emsp;|-->Entrega 1<br>
-    &emsp;|-->Backend<br>
-    &emsp;|-->Frontend<br>
+    &emsp;&emsp;|-->Backend<br>
+    &emsp;&emsp;|-->Frontend<br>
   &emsp;|-->Entrega 2<br>
-    &emsp;|-->Backend<br>
-    &emsp;|-->Frontend<br>
+    &emsp;&emsp;|-->Backend<br>
+    &emsp;&emsp;|-->Frontend<br>
   &emsp;|-->Entrega 3<br>
-    &emsp;|-->Backend<br>
-    &emsp;|-->Frontend<br>
+    &emsp;&emsp;|-->Backend<br>
+    &emsp;&emsp;|-->Frontend<br>
 |.gitignore<br>
 |readme.md<br>
 
