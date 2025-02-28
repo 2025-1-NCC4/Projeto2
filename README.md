@@ -37,31 +37,36 @@ May the force be with you!
 -Raiz<br>
 |<br>
 |-->documentos<br>
-  &emsp;|-->antigos<br>
+  &emsp;|-->Entrega 1<br>
+    &emsp;|-->Analise Inferencial de Dados<br>
+    &emsp;|-->Contabilidade & Financas<br>
+    &emsp;|-->ES & AS<br>
+    &emsp;|-->Projeto Interdisciplinar - Ciencia de Dados<br>
+  &emsp;|-->Entrega 2<br>
+    &emsp;|-->Analise Inferencial de Dados<br>
+    &emsp;|-->Contabilidade & Financas<br>
+    &emsp;|-->ES & AS<br>
+    &emsp;|-->Projeto Interdisciplinar - Ciencia de Dados<br>
+  &emsp;|-->Entrega 3<br>
+    &emsp;|-->Analise Inferencial de Dados<br>
+    &emsp;|-->Contabilidade & Financas<br>
+    &emsp;|-->ES & AS<br>
+    &emsp;|-->Projeto Interdisciplinar - Ciencia de Dados<br>
   &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
+  readme.md<br>
 |-->imagens<br>
 |-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
+  &emsp;|-->Entrega 1<br>
+    &emsp;|-->Backend<br>
+    &emsp;|-->Frontend<br>
+  &emsp;|-->Entrega 2<br>
+    &emsp;|-->Backend<br>
+    &emsp;|-->Frontend<br>
+  &emsp;|-->Entrega 3<br>
+    &emsp;|-->Backend<br>
+    &emsp;|-->Frontend<br>
+|.gitignore<br>
 |readme.md<br>
-
-A pasta raiz contem dois arquivos que devem ser alterados:
-
-<b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
-
-Há também 4 pastas que seguem da seguinte forma:
-
-<b>documentos</b>: Toda a documentação estará nesta pasta.
-
-<b>executáveis</b>: Binários e executáveis do projeto devem estar nesta pasta.
-
-<b>imagens</b>: Imagens do sistema
-
-<b>src</b>: Pasta que contém o código fonte.
 
 ## 🛠 Instalação
 
@@ -112,6 +117,4 @@ Aqui estão as referências usadas no projeto.
 1. <https://github.com/iuricode/readme-template>
 2. <https://github.com/gabrieldejesus/readme-model>
 3. <https://chooser-beta.creativecommons.org/>
-4. <https://freesound.org/>
-5. <https://www.toptal.com/developers/gitignore>
-6. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
+
