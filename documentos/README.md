@@ -43,7 +43,7 @@
 <br><br>
 <b>Flavio Santos- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
 <br><br>
-<b>Jenifer Barreto- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
+<b>Jenifer Barreto- [Trabalho/Documento](https://github.com/2025-1-NCC4/Projeto2/tree/main/documentos/Entrega%201/Projeto%20Interdisciplinar%20-%20Ciencia%20de%20Dados)</b>
 <br><br>
 <b>Maria Kassandra Alves- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
 <br><br>
