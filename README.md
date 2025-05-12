@@ -12,7 +12,7 @@ Vide tutoriais do PI.
 
 # Help MEI SP
 
-## Nome do Grupo
+## Os café com Leite
 
 ## Integrantes: <a href="https://www.linkedin.com/in/mariaeflopes/">Eduarda Lopes</a>, <a href="https://www.linkedin.com/in/flaviojose-santos/">Flávio Santos</a>, <a href="https://www.linkedin.com/in/jenifer-barreto-55022523b/">Jenifer Barreto</a>, <a href="https://www.linkedin.com/in/maria-kassandra-alves-a6b406284/">Maria Kassandra Alves Gomes</a>
 
