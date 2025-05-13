@@ -5,45 +5,21 @@
 
 ### Analise Inferencial de Dados
 
-<b>Eduarda Lopes- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
+<b>Maria Kassandra Alves- [Trabalho/Documento]([https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt](https://github.com/2025-1-NCC4/Projeto2/blob/main/documentos/Entrega%201/Analise%20Inferencial%20de%20Dados/An%C3%A1lise%20Inferencial%20de%20Dados.pdf))</b>
 <br><br>
-<b>Flavio Santos- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
-<br><br>
-<b>Jenifer Barreto- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
-<br><br>
-<b>Maria Kassandra Alves- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
-<br><br>
-
 
 ### Contabilidade & Financas
 
-<b>Eduarda Lopes- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
-<br><br>
-<b>Flavio Santos- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
-<br><br>
-<b>Jenifer Barreto- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
-<br><br>
-<b>Maria Kassandra Alves- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
+<b>Flavio Santos- [Trabalho/Documento]([https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt](https://github.com/2025-1-NCC4/Projeto2/blob/main/documentos/Entrega%201/Contabilidade%20%26%20Financas/Contabilidade%20e%20Finan%C3%A7as%20-%20Entrega%2001.pdf))</b>
 <br><br>
 
 ### ES & AS
 
-<b>Eduarda Lopes- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
-<br><br>
-<b>Flavio Santos- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
-<br><br>
-<b>Jenifer Barreto- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
-<br><br>
-<b>Maria Kassandra Alves- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
+<b>Eduarda Lopes- [Trabalho/Documento]([https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt](https://github.com/2025-1-NCC4/Projeto2/blob/main/documentos/Entrega%201/ES%20%26%20AS/PI%20-%20ES%20%26%20AS.pdf
+))</b>
 <br><br>
 
 ### Projeto Interdisciplinar - Ciencia de Dados
 
-<b>Eduarda Lopes- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
-<br><br>
-<b>Flavio Santos- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
-<br><br>
-<b>Jenifer Barreto- [Trabalho/Documento](https://github.com/2025-1-NCC4/Projeto2/tree/main/documentos/Entrega%201/Projeto%20Interdisciplinar%20-%20Ciencia%20de%20Dados)</b>
-<br><br>
-<b>Maria Kassandra Alves- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
+<b>Jenifer Barreto- [Trabalho/Documento]([https://github.com/2025-1-NCC4/Projeto2/tree/main/documentos/Entrega%201/Projeto%20Interdisciplinar%20-%20Ciencia%20de%20Dados](https://github.com/2025-1-NCC4/Projeto2/blob/main/documentos/Entrega%201/Projeto%20Interdisciplinar%20-%20Ciencia%20de%20Dados/ProjetoPI_CaseNeon.pdf))</b>
 <br><br>
