@@ -5,8 +5,7 @@
 
 ### Analise Inferencial de Dados
 
-<b>Maria Kassandra Alves- [Trabalho/Documento]
-(https://github.com/2025-1-NCC4/Projeto2/blob/main/documentos/Entrega%201/Analise%20Inferencial%20de%20Dados/An%C3%A1lise%20Inferencial%20de%20Dados.pdf)</b>
+<b>Maria Kassandra Alves- [Trabalho/Documento](https://github.com/2025-1-NCC4/Projeto2/blob/main/documentos/Entrega%201/Analise%20Inferencial%20de%20Dados/An%C3%A1lise%20Inferencial%20de%20Dados.pdf)</b>
 <br><br>
 
 ### Contabilidade & Financas
