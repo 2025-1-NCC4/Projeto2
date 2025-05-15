@@ -33,8 +33,6 @@ Além de contribuir para a educação financeira e tomada de decisão, o sistema
 
 *_Slogan: "Visualize hoje. Cresça amanhã."_*
 <br><br>
-May the force be with you!
-<br><br>
 
 ## 🛠 Estrutura de pastas
 
