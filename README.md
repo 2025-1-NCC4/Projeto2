@@ -25,9 +25,13 @@ Vide tutoriais do PI.
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
+Help MEI é uma solução digital desenvolvida para apoiar Microempreendedores Individuais (MEIs) de São Paulo por meio de um dashboard interativo que integra indicadores macroeconômicos atualizados com ferramentas de contabilidade simplificada. O sistema automatiza a coleta de dados econômicos (como SELIC, IPCA e inadimplência) via API do Banco Central, realiza análises descritivas e preditivas com técnicas de ciência de dados e oferece recursos acessíveis de gestão contábil, como razonetes e balanços patrimoniais.
+
+A plataforma, construída com Plotly Dash, permite ao MEI visualizar tendências econômicas, prever cenários futuros e organizar suas finanças de forma prática, mesmo sem conhecimento técnico.
+
+Além de contribuir para a educação financeira e tomada de decisão, o sistema é modular, documentado e preparado para futuras expansões, como alertas automatizados, categorização por setor e integração com apps móveis.
+
+*_Slogan: "Visualize hoje. Cresça amanhã."_*
 <br><br>
 May the force be with you!
 <br><br>
