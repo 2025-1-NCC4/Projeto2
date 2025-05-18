@@ -70,47 +70,47 @@ Além de contribuir para a educação financeira e tomada de decisão, o sistema
 |.gitignore<br>
 |readme.md<br>
 
-## 🛠 Instalação
+## 🛠 Instalação e Configuração para Desenvolvimento
 
-<b>Android:</b>
+<b>Pré-requisitos:</b>
 
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
+ - Python 3.8 ou superior
+ - Pip (gerenciador de pacotes)
+ - Git (para controle de versão)
+ - Conta no Banco Central API (opcional, para dados econômicos)
 
+<b>Passo a Passo:</b>
+
+1. Clonar o repositório
 ```sh
-Coloque código do prompt de comnando se for necessário
+  git clone https://github.com/seu-usuario/help-mei.git
+  cd help-mei
 ```
-
-<b>Windows:</b>
-
-Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
-
+2. Criar ambiente virtual
 ```sh
-Coloque código do prompt de comnando se for necessário
+  python -m venv venv
+  # Ativação:
+  source venv/bin/activate  # Linux/Mac
+  .\venv\Scripts\activate   # Windows
 ```
-
-<b>HTML:</b>
-
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
-
-## 💻 Configuração para Desenvolvimento
-
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
-
-Para abrir este projeto você necessita das seguintes ferramentas:
-
--<a href="https://godotengine.org/download">GODOT</a>
-
+3. Instalar dependências
 ```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
+  pip install -r requirements.txt
 ```
+Nota: 
+  O arquivo requirements.txt deve incluir:
+    streamlit==1.32.0
+    pandas==2.0.0
+    plotly==5.18.0
+    requests==2.31.0  # Para APIs externas
+4.  Executar a aplicação
+```sh
+  streamlit run src/app.py
+```
+  Acesse no navegador: http://localhost:8501
 
 ## 📋 Licença/License
-Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
+<a href="https://hlpmei.streamlit.app/">HELP MEI</a> © 2025 by <a href="https://github.com/2025-1-NCC4/Projeto2">Eduarda Lopes, Flávio Santos, Jenifer Barreto, Maria Kassandra Alves Gomes</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 ## 🎓 Referências
 
