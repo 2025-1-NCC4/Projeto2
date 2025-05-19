@@ -67,6 +67,12 @@ Além de contribuir para a educação financeira e tomada de decisão, o sistema
   &emsp;|-->Entrega 3<br>
     &emsp;&emsp;|-->Backend<br>
     &emsp;&emsp;|-->Frontend<br>
+    &emsp;&emsp;&emsp;|-->pages<br>
+    &emsp;&emsp;&emsp;&emsp;|-->01_📊Painel.py<br>
+    &emsp;&emsp;&emsp;&emsp;|-->02_🧮Calculadora_Contabil.py<br>
+     &emsp;&emsp;&emsp;&emsp;|-->03_✉️Contatos.py<br>
+    &emsp;&emsp;&emsp;|-->🏠Home.py<br>
+    &emsp;&emsp;&emsp;|-->requirements.txt<br>
 |.gitignore<br>
 |readme.md<br>
 
@@ -103,11 +109,12 @@ Nota:
     pandas==2.0.0
     plotly==5.18.0
     requests==2.31.0  # Para APIs externas
+    demais bibliotecas...
 4.  Executar a aplicação
 ```sh
-  streamlit run src/app.py
+  streamlit run 🏠Home.py
 ```
-  Acesse no navegador: http://localhost:8501
+  **Para rodar o app, o projeo precisa ser aberto na pasta Frontend.**
 
 ## 📋 Licença/License
 <a href="https://hlpmei.streamlit.app/">HELP MEI</a> © 2025 by <a href="https://github.com/2025-1-NCC4/Projeto2">Eduarda Lopes, Flávio Santos, Jenifer Barreto, Maria Kassandra Alves Gomes</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
