@@ -32,6 +32,8 @@ A plataforma, construída com Plotly Dash, permite ao MEI visualizar tendências
 Além de contribuir para a educação financeira e tomada de decisão, o sistema é modular, documentado e preparado para futuras expansões, como alertas automatizados, categorização por setor e integração com apps móveis.
 
 *_Slogan: "Visualize hoje. Cresça amanhã."_*
+
+*LINK PARA O DASHBOARD INTERATIVO:* <a href=https://hlpmeipi.streamlit.app/>HELP MEI</a>
 <br><br>
 
 ## 🛠 Estrutura de pastas
